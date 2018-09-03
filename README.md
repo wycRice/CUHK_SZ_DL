@@ -2,7 +2,7 @@
 
 ## On course tutorial
 
-For on-course tutorial, we mainly based on the English version of mxnet [https://github.com/zackchase/mxnet-the-straight-dope] running on Ubuntu.
+For on-course tutorial, we mainly based on the English version of mxnet tutorial [https://github.com/zackchase/mxnet-the-straight-dope] running on Ubuntu.
 
 ## Dependencies
 
@@ -20,7 +20,8 @@ If you have GPU installed on your laptop, please
 ```
 pip install mxnet-cu90
 ```
-(90 means that your cuda version is cuda 9.0, please check other version [https://pypi.org/project/mxnet-cu90/])
+(90 means that your cuda version is cuda 9.0, please check other version [https://pypi.org/project/mxnet-cu90/]).
+
 Otherwise, please just install the CPU version of mxnet 
 ```
 pip install mxnet
